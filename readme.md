@@ -1,10 +1,10 @@
 # Lscrape
 
-I put together an automated browser for LinkedIn using selenium. Currently, my focus is to investigate my 1st and 2nd order connections for educational purposes.
+I put together an automated browser for LinkedIn using selenium. Currently, my focus is to investigate my 1st order connections for educational purposes.
 
 **Future Plans:**
 
-If I want to scrape quickly I'll probably use `scrapy` instead. At this point I like watching it go.
+If I wanted to scrape quickly I'd use `scrapy` instead. At this point I'm treating this like an interactive helper tool.
 
 ## Getting Started
 
@@ -36,6 +36,8 @@ or
 Currently this is a one-off script. To use download it and run it like this:
 
 `python scrape.py`
+
+But I usually open an ipython interpreter so it can be partly interactive.
 
 Hopefully, I'll package it up nicer in the future :)
 
